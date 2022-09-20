@@ -150,3 +150,6 @@ color: white;
 .video-link:hover {
     font-weight: bolder;
   }
+  .try {
+    text-align: center;
+  }
