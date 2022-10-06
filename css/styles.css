@@ -194,7 +194,7 @@ color: white;
   display: flex;
   justify-content: center;
   align-items: center;
-/*   height: 90vh; */
+  /* height: 90vh; */
   padding-bottom: 5rem;
   font-family: 'Quicksand', sans-serif;
 }
@@ -238,6 +238,9 @@ color: white;
 .profile-card:hover .caption-p {
   opacity: 1;
 }
+.ph {
+  margin-top: 1.5rem;
+}
 .caption-p .ph{
   /* font-size: 32px;
   font-weight:600; */
@@ -252,7 +255,7 @@ color: white;
   top: -25%;
   font-size: 15px;
   color: #0c52a1;
-  padding-top: 2rem;
+  padding-top: 2.5rem;
 }
 .social-links-p {
   display: flex;
