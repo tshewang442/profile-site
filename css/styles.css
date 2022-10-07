@@ -68,7 +68,7 @@ hr {
 .modeling-img {  /* Class name should not start with a number eg.3D-modeling*/
   width: 25%;
   float: left;
-  margin-right: 1.875rem;
+  margin-right: 30px;
 }
 .top-container {
   background-color: #EAF6F6;  /* #e4f9f5;   */
